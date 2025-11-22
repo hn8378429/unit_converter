@@ -130,7 +130,7 @@ if st.button("🔄 Convert"):
     st.markdown(f"<div class='result-box'>{value} {from_unit} = {result:.4f} {to_unit}</div>", unsafe_allow_html=True)
 
 # Footer (Neeche footer message)
-st.markdown("<div class='footer'>Created by Muhammad Asaad</div>", unsafe_allow_html=True)
+st.markdown("<div class='footer'>Created by Muhammad Hasan</div>", unsafe_allow_html=True)
  
     
     
